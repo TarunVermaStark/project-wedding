@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "rewrites": [{ "source": "/", "destination": "/complete" }]
+  "rewrites": [{ "source": "/", "destination": "/wedding" }]
 }
